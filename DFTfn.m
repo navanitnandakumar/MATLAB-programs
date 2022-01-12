@@ -1,7 +1,7 @@
 #----DFTfn----
 function X = DFTfn(x)
   #takes x as input sequence
-  # N stores the length of input sequence
+  #N stores the length of input sequence
   N = length(x);
   #X stores output sequence
   X = [];
