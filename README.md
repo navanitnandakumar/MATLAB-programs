@@ -1,4 +1,4 @@
-# Digital-signal-processing
+# MATLAB-programs
 
 <li>Signals : - Plot containing some basic signals</li>
 <li>DFT : - Discrete fourier transform using N-point DFT equation and matrix method</li>
